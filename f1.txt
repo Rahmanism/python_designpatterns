@@ -1,0 +1,8 @@
+[CRITICAL] test for f1 from logger1
+[CRITICAL] test for f1 from logger1
+[CRITICAL] test for f1 from logger1
+[CRITICAL] test for f1 from logger1
+[CRITICAL] test for f1 from logger1
+[CRITICAL] test for f1 from logger1
+[CRITICAL] test for f1 from logger1
+[CRITICAL] test for f1 from logger1

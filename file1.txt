@@ -1,0 +1,23 @@
+Log message.
+Log message.
+Log message.
+Log message...
+Log message - imported
+Log message - imported
+Log message 0
+
+Log message 1
+
+Log message 2
+
+Log message 3
+
+Log message - imported
+Log message 0
+Log message 1
+Log message 2
+Log message 3
+[INFO] Log message - imported
+[CRITICAL] This is a critical message.
+[WARNING] A warning
+[ERROR] And this is an error.

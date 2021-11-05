@@ -1,0 +1,4 @@
+[INFO] Log message - imported
+[CRITICAL] This is a critical message.
+[WARNING] A warning
+[ERROR] And this is an error.

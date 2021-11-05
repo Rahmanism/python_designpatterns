@@ -1,0 +1,14 @@
+[WARNING] warning for f2 from logger2
+[ERROR] is this in f2 from logger1?
+[WARNING] warning for f2 from logger2
+[ERROR] is this in f2 from logger1?
+[WARNING] warning for f2 from logger2
+[ERROR] is this in f2 from logger1?
+[WARNING] warning for f2 from logger2
+[ERROR] is this in f2 from logger1?
+[WARNING] warning for f2 from logger2
+[ERROR] is this in f2 from logger1?
+[WARNING] warning for f2 from logger2
+[ERROR] is this in f2 from logger1?
+[WARNING] warning for f2 from logger2
+[ERROR] is this in f2 from logger1?
