@@ -4,7 +4,7 @@ def test_args(arg1, *args, **kargs):
     print('Argument: ', a)
   if kargs is not None:
     for ka, kav in kargs.items():
-      print(ka, ': ', kav)
+      print(f"{ka}: {kav}")
   else:
     print('no kargs')
 
